@@ -1,0 +1,2 @@
+[alias]
+diesel = "run --package diesel_wrapper --"
